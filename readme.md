@@ -4,21 +4,6 @@
 
 This project is a COBOL-based Loan Management System designed for banks or government institutions. It handles loan applications, tracks repayments, calculates interest, and generates various reports.
 
-## File Structure
-
-LoanManagementSystem/
-├── src/
-│ ├── LoanManagementSystem.cbl
-│ ├── CreateLoanDataFile.cbl
-│ ├── CreateRepaymentDataFile.cbl
-│ └── UserAuthentication.cbl (if separate)
-├── data/
-│ ├── users.dat
-│ ├── loans.dat
-│ └── repayments.dat
-└── README.md
-
-
 ## Setup and Usage
 
 ### 1. Compile the COBOL Programs
